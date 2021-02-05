@@ -114,7 +114,7 @@ class MainActivity : AppCompatActivity() {
             //aca adentro generariamos el constructor
             //VER VIDEO CLASE GRABADA
         //constructor()
-            val a1 = a
+            val a1 = a + 123
 
         }
 
