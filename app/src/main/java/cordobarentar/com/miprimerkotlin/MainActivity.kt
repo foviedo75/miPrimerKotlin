@@ -106,7 +106,7 @@ class MainActivity : AppCompatActivity() {
         //en kotlin por default es public a menos que se defina
         //Ver Visibilidad de constantes y variables
 
-
+        var a = 123
         //otra forma de definir una clase
         class Person2 (var nombre:String, var appCompatActivity: AppCompatActivity:String, var edad:Int,
         var tieneAuto:Boolean = false){
@@ -114,7 +114,7 @@ class MainActivity : AppCompatActivity() {
             //aca adentro generariamos el constructor
             //VER VIDEO CLASE GRABADA
         //constructor()
-
+            val a1 = a
 
         }
 
